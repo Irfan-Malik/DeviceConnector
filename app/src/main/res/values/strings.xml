@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DeviceConnector</string>
+    <string name="news">News</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="client_header">Tap The Light Bulb To Toggle Its State</string>
+    <string name="android_things_header">Bad Ass Light Toggler</string>
+    <string name="red_light_desc">RED LIGHT</string>
+    <string name="green_light_desc">GREEN LIGHT</string>
+    <string name="blue_light_desc">BLUE LIGHT</string>
+    <!--news-->
+    <string name="top_headlines">Top Headlines</string>
+    <string name="browse">Browse</string>
+    <string name="share">Share</string>
+    <string name="save">Read later</string>
+    <string name="listen">Listen</string>
+    <string name="internet_warming">Check your Internet Connection and Try Again!</string>
+    <string name="news_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+
+</resources>

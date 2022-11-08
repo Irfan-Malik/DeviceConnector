@@ -1,0 +1,49 @@
+{
+  "IOT": [
+    {
+      "title": "Smart Watch",
+      "key": "watch",
+      "image": "watch"
+    },
+    {
+      "title": "Remote Camera",
+      "type": "camera",
+      "image": "camera"
+    },
+    {
+      "title": "Remote Bulbs",
+      "key": "bulb",
+      "image": "bulb"
+    },
+    {
+      "title": "Thermostat",
+      "type": "thermostat",
+      "image": "thermostat"
+    },
+    {
+      "title": "Power Plugs",
+      "key": "plug",
+      "image": "plug"
+    },
+    {
+      "title": "Air Conditioner",
+      "type": "conditioner",
+      "image": "conditioner"
+    },
+    {
+      "title": "Curtains",
+      "type": "curtain",
+      "image": "curtain"
+    },
+    {
+      "title": "Weather",
+      "type": "weather",
+      "image": "weather"
+    },
+    {
+      "title": "News",
+      "type": "news",
+      "image": "news"
+    }
+  ]
+}
